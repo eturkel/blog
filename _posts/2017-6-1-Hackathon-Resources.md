@@ -5,6 +5,21 @@ title: A Great List of Hackathon Resources
 ---
 The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-data-delaware.ticketleap.com/open-data-challenge-hackathon/) has arrived! As promised, we've pooled together ideas from all our #dataNinjas and come up with a list of our favorite hackathon resources. Whether you’re a seasoned hackathon coder, or this is your very first time, we guarantee you’ll be able to find something helpful here.  We’ve broken up the links into segments to make everything easy to find.
 
+### Onboarding for the 2017 Open Data Challenge
+* [Register for Slack](https://opendatadeslack.herokuapp.com/) - Everyone on your team should register here for quick, easy communcation. Make a channel specifically for your team. We can help if you don't know how.
+* [Complete this Form](https://docs.google.com/forms/d/e/1FAIpQLSd6TNh9j-yOSazm68px1E9L9JRcRZBDlzkmzMKV8zFz0eQJ3w/viewform) - This will help us keep track of everyone here and quickly communicate with teams
+* [Judging Rubric](https://www.dropbox.com/s/f0byuykq3sptoau/Judging%20Rubric.pdf?dl=0) - Consult back to this rubric as you're building your plan! There's one in your participant folder as well.
+* [Presentation Template](https://www.dropbox.com/s/ues7urm7qpxw5u9/Presentation%20Template.pptx?dl=0) - Make sure you talk about all of the things here. This template is also at the correct size for the presentation (16x9).
+
+### Data Resources
+* [Delaware Open Data Portal](https://data.delaware.gov)
+* [Delaware 211](http://www.delaware211.org/)
+* [US Open Data Portal](https://data.gov)
+* [US Census](https://census.gov)
+* [American Community Survey](https://www.census.gov/programs-surveys/acs/)
+* [Hunger Relief Partners](https://www.dropbox.com/s/yoykmzxy2iuv42y/Hunger%20Relief%20Partners.xls?dl=0)
+* [Open Addresses](https://openaddresses.io)
+
 ### My First Hackathon (or My 100th)
 
 * [WTF is a hackathon?](https://medium.com/hackathons-anonymous/wtf-is-a-hackathon-92668579601) - An article of what, why, and how.
@@ -27,6 +42,7 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 * [Give Design to Your Project](http://www.opendatadelaware.com/blog/How-To-Web-Design/) - How to plan your web design.
 * [Content Strategy](http://www.opendatadelaware.com/blog/Content-Strategy/) - How to plan the content of your project.
 * [NY Hackathons’ List of Awesome Tools](http://nyhackathons.com/tools/) - This is a list of general awesome.
+* [Shoutkey](http://shoutkey.com) - Really simple way to share links
 
 There are thousands more amazing resources out there that will help make your hackathon experience awesome. But truthfully, what you really need is an open mind, an eagerness to learn, and volunteer spirit.  We are very much looking forward to seeing all the projects that grow over the next few days. Good luck!
 
