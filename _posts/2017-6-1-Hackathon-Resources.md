@@ -59,6 +59,20 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 * [Open Up Resources](http://openupresources.org/)
 * [Delaware Scholarships in List](http://scholarships.delawaregoestocollege.org/listing/)
 
+#### Legal Services Resources
+
+* [Delaware Courts Legal Assistance – list of programs](http://courts.delaware.gov/help/legalassistance.aspx)
+* [Delaware Volunteer Legal Services](http://www.dvls.org/)
+* [Delaware Legal Services Corporation](http://www.lscd.com/)
+* [Delaware Community Legal Aid Society](http://www.declasi.org/)
+* [Delaware State Bar Association – Access to Justice](https://www.dsba.org/access-to-justice-program/)
+* [Individual Law Firms Who Do Pro Bono Work Morris James](http://www.morrisjames.com/careers-why-probono.html)
+* [MNAT](http://www.mnat.com/about/pro-bono/)
+* [RLF](https://www.rlf.com/4782)
+* [YCST](http://www.youngconaway.com/probono/)
+* [American Bar Association Legal Services, Delaware(https://www.americanbar.org/portals/public_resources/aba_home_front/directory_programs/delaware.html)
+* [Avvo (for profit company) List of Lawyers](https://www.avvo.com/all-lawyers/de.html)
+
 ### Food Bank
 
 * [Delaware Food Closets (list, not a dataset)](http://www.dhss.delaware.gov/dhss/foodbank/resourcelocator.html)
@@ -73,7 +87,7 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 * [EPA Sustainable Management of Food (Food Waste Prevention)](https://www.epa.gov/sustainable-management-food)
 * [ReFed, a nonprofit org, data on food waste](http://www.refed.com/?sort=economic-value-per-ton) (scroll down the page, you will see “download” or “share” dataset)
 * [USDA Food and Nutritional Assistance Page (links to more resources/data)](https://www.ers.usda.gov/topics/food-nutrition-assistance/)
-
+* [List of Food Pantries and Shelters that contribute to State and federal programs(http://www.gss.omb.delaware.gov/food/locations.shtml)
 
 ## My First Hackathon (or My 100th)
 
@@ -88,7 +102,7 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 * [10 Tips to Rock Your Next Hackathon Demo](http://angelhack.com/2016/07/08/10-tips-hackathon-demo/) - More tips for selling your project and making it shine.
 
 
-## Planning Ideas or, Keep It Simple!
+## Technical Help!
 
 * [How to API](https://github.com/BoilerCamp/how-to-api) - Learn what an API is, and then build an API and consume it with an Angular app.
 * [Build With Bootstrap](https://startbootstrap.com/) - the official Bootstrap website.
@@ -97,6 +111,8 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 * [Content Strategy](http://www.opendatadelaware.com/blog/Content-Strategy/) - How to plan the content of your project.
 * [NY Hackathons’ List of Awesome Tools](http://nyhackathons.com/tools/) - This is a list of general awesome.
 * [Shoutkey](http://shoutkey.com) - Really simple way to share links
+* [HTML5 Boilerplate Starter](http://www.initializr.com/)
+* [Official HTML5 Boilerplate Site](https://html5boilerplate.com/)
 
 ## Starting a Server on Heroku Using Node.js
 
