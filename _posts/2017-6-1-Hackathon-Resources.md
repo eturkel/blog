@@ -6,14 +6,14 @@ title: A Great List of Hackathon Resources
 The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-data-delaware.ticketleap.com/open-data-challenge-hackathon/) has arrived! As promised, we've pooled together ideas from all our #dataNinjas and come up with a list of our favorite hackathon resources. Whether you’re a seasoned hackathon coder, or this is your very first time, we guarantee you’ll be able to find something helpful here.  We’ve broken up the links into segments to make everything easy to find.
 
 
-### Onboarding for the 2017 Open Data Challenge
+## Onboarding for the 2017 Open Data Challenge
 * [Register for Slack](https://opendatadeslack.herokuapp.com/) - Everyone on your team should register here for quick, easy communcation. Make a channel specifically for your team. We can help if you don't know how.
 * [Complete this Form](https://docs.google.com/forms/d/e/1FAIpQLSd6TNh9j-yOSazm68px1E9L9JRcRZBDlzkmzMKV8zFz0eQJ3w/viewform) - This will help us keep track of everyone here and quickly communicate with teams
 * [Judging Rubric](https://www.dropbox.com/s/f0byuykq3sptoau/Judging%20Rubric.pdf?dl=0) - Consult back to this rubric as you're building your plan! There's one in your participant folder as well.
 * [Presentation Template](https://www.dropbox.com/s/ues7urm7qpxw5u9/Presentation%20Template.pptx?dl=0) - Make sure you talk about all of the things here. This template is also at the correct size for the presentation (16x9).
 
 
-### Data Resources
+## Data Resources
 * [Delaware Open Data Portal](https://data.delaware.gov)
 * [Delaware 211](http://www.delaware211.org/)
 * [US Open Data Portal](https://data.gov)
@@ -23,9 +23,9 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 * [Open Addresses](https://openaddresses.io)
 
 
-### Dataset Catalogs
+## Dataset Catalogs
 
-## Both Food Bank and Network Delaware
+### Both Food Bank and Network Delaware
 
 * [Delaware Open Data Portal](https://data.delaware.gov/)
 * [Dev.Socrata](https://dev.socrata.com/) - How to use Socrata’s APIs (They’re the guys that built [Data.Delaware.Gov](https://data.delaware.gov/)).
@@ -35,15 +35,15 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 * [Open Data Network- a collectino of all datasets hosted in Socrata](https://www.opendatanetwork.com/)
 * [Facebook API](https://developers.facebook.com/) [Twitter API] (https://dev.twitter.com/)
 
-## Newtwork Delaware
+### Newtwork Delaware
 
-# Work Training and Re-Training Programs
+### Work Training and Re-Training Programs
 
 * [Delaware Workforce Development Training Programs](https://joblink.delaware.gov/ada/services/schools/SchResults.cfm)
 * [DEDO Workforce Training Grants](http://dedo.delaware.gov/Incentives/Workforce-TrainingGrants#governors-education-grant-unemployed-workers)
 * [Find Training Opportunities](https://www.careeronestop.org/FindTraining/find-training.aspx?frd=true)
 
-# Google Calendar Events for Work Training/ReTraining Programs in Delaware
+### Google Calendar Events for Work Training/ReTraining Programs in Delaware
 
 * [Wilmington Department of Labor Training Events](https://calendar.google.com/calendar/embed?src=va42tlhvsf8j5l1fre9ns2emsc@group.calendar.google.com&ctz=America/New_York&pli=1)
 * [Newark Department of Labor Training Events](https://calendar.google.com/calendar/embed?src=jh5du3m782a2vp112prc8e9bg0%40group.calendar.google.com&ctz=America/New_York)
@@ -59,7 +59,7 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 * [Open Up Resources](http://openupresources.org/)
 * [Delaware Scholarships in List](http://scholarships.delawaregoestocollege.org/listing/)
 
-## Food Bank
+### Food Bank
 
 * [Delaware Food Closets (list, not a dataset)](http://www.dhss.delaware.gov/dhss/foodbank/resourcelocator.html)
 * [Women, Infants, and Children (WIC, a food assistance program) Data](https://www.fns.usda.gov/pd/wic-program)
@@ -75,7 +75,7 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 * [USDA Food and Nutritional Assistance Page (links to more resources/data)](https://www.ers.usda.gov/topics/food-nutrition-assistance/)
 
 
-### My First Hackathon (or My 100th)
+## My First Hackathon (or My 100th)
 
 * [WTF is a hackathon?](https://medium.com/hackathons-anonymous/wtf-is-a-hackathon-92668579601) - An article of what, why, and how.
 * [Your First Hackathon](http://news.mlh.io/your-first-hackathon-10-07-2013) - Helpful hints for your first event.
@@ -88,7 +88,7 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 * [10 Tips to Rock Your Next Hackathon Demo](http://angelhack.com/2016/07/08/10-tips-hackathon-demo/) - More tips for selling your project and making it shine.
 
 
-### Planning Ideas or, Keep It Simple!
+## Planning Ideas or, Keep It Simple!
 
 * [How to API](https://github.com/BoilerCamp/how-to-api) - Learn what an API is, and then build an API and consume it with an Angular app.
 * [Build With Bootstrap](https://startbootstrap.com/) - the official Bootstrap website.
