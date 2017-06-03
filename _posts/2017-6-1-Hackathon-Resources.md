@@ -70,7 +70,7 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 * [MNAT](http://www.mnat.com/about/pro-bono/)
 * [RLF](https://www.rlf.com/4782)
 * [YCST](http://www.youngconaway.com/probono/)
-* [American Bar Association Legal Services, Delaware(https://www.americanbar.org/portals/public_resources/aba_home_front/directory_programs/delaware.html)
+* [American Bar Association Legal Services, Delaware](https://www.americanbar.org/portals/public_resources/aba_home_front/directory_programs/delaware.html)
 * [Avvo (for profit company) List of Lawyers](https://www.avvo.com/all-lawyers/de.html)
 
 ### Food Bank
@@ -87,7 +87,7 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 * [EPA Sustainable Management of Food (Food Waste Prevention)](https://www.epa.gov/sustainable-management-food)
 * [ReFed, a nonprofit org, data on food waste](http://www.refed.com/?sort=economic-value-per-ton) (scroll down the page, you will see “download” or “share” dataset)
 * [USDA Food and Nutritional Assistance Page (links to more resources/data)](https://www.ers.usda.gov/topics/food-nutrition-assistance/)
-* [List of Food Pantries and Shelters that contribute to State and federal programs(http://www.gss.omb.delaware.gov/food/locations.shtml)
+* [List of Food Pantries and Shelters that contribute to State and federal programs](http://www.gss.omb.delaware.gov/food/locations.shtml)
 
 ## My First Hackathon (or My 100th)
 
