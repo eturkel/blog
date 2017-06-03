@@ -100,6 +100,7 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 * [A Hackathon Project Guide](https://medium.com/@nicholasmwalsh/zero-to-hero-in-36-hours-a-hackathon-project-guide-e7aeb5989c74) - A complete wakthrough.
 * [How To Present A Successful Hackathon Demo](http://techcrunch.com/2014/09/01/how-to-crush-your-hackathon-demo/) - Tips for public speaking to sell your project.
 * [10 Tips to Rock Your Next Hackathon Demo](http://angelhack.com/2016/07/08/10-tips-hackathon-demo/) - More tips for selling your project and making it shine.
+* [Civic App Challenge Presentation Tips and Tricks by Mark Headd](https://medium.com/@mheadd/civic-app-challenge-presentation-tips-tricks-cf3684aaa95d)
 
 
 ## Technical Help!
