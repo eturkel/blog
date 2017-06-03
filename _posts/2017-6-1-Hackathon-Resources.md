@@ -31,9 +31,10 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 * [Dev.Socrata](https://dev.socrata.com/) - How to use Socrata’s APIs (They’re the guys that built [Data.Delaware.Gov](https://data.delaware.gov/)).
 * [Data.gov, Federal data sets](https://www.data.gov/developers/apis)
 * [Cornell University Data Sources](https://www.ciser.cornell.edu/ASPs/datasource.asp)
-* [Demographic Information](ttps://www.census.gov/)
+* [Demographic Information](https://www.census.gov/)
 * [Open Data Network- a collectino of all datasets hosted in Socrata](https://www.opendatanetwork.com/)
-* [Facebook API](https://developers.facebook.com/) [Twitter API] (https://dev.twitter.com/)
+* [Facebook API](https://developers.facebook.com/)
+* [Twitter API] (https://dev.twitter.com/)
 
 ### Network Delaware
 
