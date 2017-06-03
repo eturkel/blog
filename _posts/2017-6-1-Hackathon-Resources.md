@@ -35,7 +35,7 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 * [Open Data Network- a collectino of all datasets hosted in Socrata](https://www.opendatanetwork.com/)
 * [Facebook API](https://developers.facebook.com/) [Twitter API] (https://dev.twitter.com/)
 
-### Newtwork Delaware
+### Network Delaware
 
 ### Work Training and Re-Training Programs
 
