@@ -32,7 +32,7 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 * [Data.gov, Federal data sets](https://www.data.gov/developers/apis)
 * [Cornell University Data Sources](https://www.ciser.cornell.edu/ASPs/datasource.asp)
 * [Demographic Information](https://www.census.gov/)
-* [Open Data Network- a collectino of all datasets hosted in Socrata](https://www.opendatanetwork.com/)
+* [Open Data Network- a collection of all datasets hosted in Socrata](https://www.opendatanetwork.com/)
 * [Facebook API](https://developers.facebook.com/)
 * [Twitter API](https://dev.twitter.com/)
 
