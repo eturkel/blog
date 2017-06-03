@@ -98,6 +98,14 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 * [NY Hackathons’ List of Awesome Tools](http://nyhackathons.com/tools/) - This is a list of general awesome.
 * [Shoutkey](http://shoutkey.com) - Really simple way to share links
 
+## Starting a Server on Heroku Using Node.js
+
+* [Heroku Postgres add-on](https://devcenter.heroku.com/articles/heroku-postgresql)
+* [Heroku Dev Center- Node.js](https://devcenter.heroku.com/categories/nodejs)
+* [freeCodeCamp Guide for using MongoDB and Deploying with Heroku](https://forum.freecodecamp.com/t/guide-for-using-mongodb-and-deploying-to-heroku/19347)
+* [Scotch.io Guide for using MongoDB, Node.js, and Heroku](https://scotch.io/tutorials/use-mongodb-with-a-node-application-on-heroku)
+* [Scotch.io Guide for deploying a Node.js app to Heroku](https://scotch.io/tutorials/how-to-deploy-a-node-js-app-to-heroku)
+
 There are thousands more amazing resources out there that will help make your hackathon experience awesome. But truthfully, what you really need is an open mind, an eagerness to learn, and volunteer spirit.  We are very much looking forward to seeing all the projects that grow over the next few days. Good luck!
 
 _Not familiar with the hackathon, who can compete, or what's in it for the winners? Check out the [Open Data Challenge website](http://opendatachallenge.com/) for the full details and follow [here](https://open-data-delaware.ticketleap.com/open-data-challenge-hackathon/) for registration rules and award details!  Can't wait to see everyone there!  There's a place for everyone at the big event: coders, designers, concerned citizens, and anyone interested in helping our local Delaware community grow!_
