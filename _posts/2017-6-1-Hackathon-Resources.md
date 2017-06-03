@@ -38,13 +38,13 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 
 ### Network Delaware
 
-### Work Training and Re-Training Programs
+#### Work Training and Re-Training Programs
 
 * [Delaware Workforce Development Training Programs](https://joblink.delaware.gov/ada/services/schools/SchResults.cfm)
 * [DEDO Workforce Training Grants](http://dedo.delaware.gov/Incentives/Workforce-TrainingGrants#governors-education-grant-unemployed-workers)
 * [Find Training Opportunities](https://www.careeronestop.org/FindTraining/find-training.aspx?frd=true)
 
-### Google Calendar Events for Work Training/ReTraining Programs in Delaware
+#### Google Calendar Events for Work Training/ReTraining Programs in Delaware
 
 * [Wilmington Department of Labor Training Events](https://calendar.google.com/calendar/embed?src=va42tlhvsf8j5l1fre9ns2emsc@group.calendar.google.com&ctz=America/New_York&pli=1)
 * [Newark Department of Labor Training Events](https://calendar.google.com/calendar/embed?src=jh5du3m782a2vp112prc8e9bg0%40group.calendar.google.com&ctz=America/New_York)
