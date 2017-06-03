@@ -34,7 +34,7 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 * [Demographic Information](https://www.census.gov/)
 * [Open Data Network- a collectino of all datasets hosted in Socrata](https://www.opendatanetwork.com/)
 * [Facebook API](https://developers.facebook.com/)
-* [Twitter API] (https://dev.twitter.com/)
+* [Twitter API](https://dev.twitter.com/)
 
 ### Network Delaware
 
@@ -55,7 +55,6 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 * [Job Center at Georgetown Library Events](http://de.evanced.info/delaware/lib/eventcalendar.asp?libnum=11)
 * [Job Center at Wilmington Library Events](http://de.evanced.info/delaware/lib/eventcalendar.asp?libnum=31)
 * [More Workshops at Delaware Libraries, by Library](http://lib.de.us/is/workshops/)
-
 * [Google Calendar API](https://developers.google.com/google-apps/calendar/)
 * [Open Up Resources](http://openupresources.org/)
 * [Delaware Scholarships in List](http://scholarships.delawaregoestocollege.org/listing/)
