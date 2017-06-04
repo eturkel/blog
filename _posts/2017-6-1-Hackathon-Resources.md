@@ -7,6 +7,7 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 
 
 ## Onboarding for the 2017 Open Data Challenge
+* [Open License Example](https://github.com/OpenDataDE/SampleHackathonLicense)
 * [Register for Slack](https://opendatadeslack.herokuapp.com/) - Everyone on your team should register here for quick, easy communcation. Make a channel specifically for your team. We can help if you don't know how.
 * [Complete this Form](https://docs.google.com/forms/d/e/1FAIpQLSd6TNh9j-yOSazm68px1E9L9JRcRZBDlzkmzMKV8zFz0eQJ3w/viewform) - This will help us keep track of everyone here and quickly communicate with teams
 * [Judging Rubric](https://www.dropbox.com/s/f0byuykq3sptoau/Judging%20Rubric.pdf?dl=0) - Consult back to this rubric as you're building your plan! There's one in your participant folder as well.
@@ -14,6 +15,7 @@ The day is almost here! The [2017 Open Data Challenge Hackathon](https://open-da
 
 
 ## Data Resources
+
 * [Delaware Open Data Portal](https://data.delaware.gov)
 * [Delaware 211](http://www.delaware211.org/)
 * [US Open Data Portal](https://data.gov)
