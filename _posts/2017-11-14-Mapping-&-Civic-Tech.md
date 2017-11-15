@@ -38,7 +38,7 @@ A very cool aspect of JSON is it's ability to support a wide range of data types
 * arrays
 
 
-![](blog/images/MappingBlog/mappingExampleJSON.png)
+![](/images/MappingBlog/mappingExampleJSON.png)
 
 ![](/images/MappingBlog/mappingExampleJSON2.png)
 
