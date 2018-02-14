@@ -5,7 +5,7 @@ title: Introduction to Jupyter Notebooks, Python Pandas, and Plotly.
 ---
 On Saturday February 10, 2018 I led a workshop on how to use a Jupyter Notebook to analyze data with Python Pandas and then create some charts with Plotly. The notebooks have been updated since then to clarify some things based on the questions and comments that were provided. 
 
-Note to workshop attendees: The notebooks have been updated, so you can look at the third notebook for instructions on migrating your chart to Javascript. 
+Note to workshop attendees: The notebooks have been updated, so you can look at the third notebook for instructions on migrating your chart to Javascript. To update the notebooks in Azure, click the 'Terminal' icon to the right of the 'Star' option. Type 'cd library' and hit enter. Then copy and paste this into the terminal. Note that it's three instructions in one: 'git fetch --all; git reset --hard origin/master; git pull origin master' -- then and hit enter. Congratulations, you just ran your first git command on the command line! Finally, type 'exit' and hit enter. Close that tab, go back to the list of notebooks and refresh your browser window.
 
 First step will be to get registered on Microsoft Live so that you can create notebooks in Azure:
 
@@ -25,7 +25,7 @@ Final step will be to start with this GitHub gist:
 
 Click on "fork" in the upper right. You will need to be logged in first.
 
-After forking the Gist, you will see an "Edit" button in the upper right. If you click it, you can edit the files directly in GitHub. Replace the JSON code in the file 'plotly_vars.json' with what was created in the notebook. You can view your final chart in the Blocks website (no registration required, Blocks are created automatically from your Gists). In the URL, replace '' with '' -- Here is my final example. (Note: It may take a few minutes for the JSON code to be updated.)
+After forking the Gist, you will see an "Edit" button in the upper right. If you click it, you can edit the files directly in GitHub. Replace the JSON code in the file 'plotly_vars.json' with what was created in the notebook. You can view your final chart in the Blocks website (no registration required, Blocks are created automatically from your Gists). In the URL, replace 'gist.github.com' with 'bl.ocks.org' -- Here is my final example. (Note: It may take a few minutes for the JSON code to be updated.)
 
 [https://bl.ocks.org/enactdev/8c65701cdb3ad655978f856d6ce92059](https://bl.ocks.org/enactdev/8c65701cdb3ad655978f856d6ce92059)
 
