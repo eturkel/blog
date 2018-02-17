@@ -3,7 +3,11 @@ author: Chris A. Williams
 layout: post
 title: Introduction to Jupyter Notebooks, Python Pandas, and Plotly.
 ---
-On Saturday February 10, 2018 I led a workshop on how to use a Jupyter Notebook to analyze data with Python Pandas and then create some charts with Plotly. The notebooks have been updated since then to clarify some things based on the questions and comments that were provided. 
+Python is increasingly being used for data science, but it’s still easiest to share results on the web. Luckily the Plotly team has written libraries for both Python and Javascript, and you can migrate from one to another by simply sharing the JSON used to build the chart. In this workshop we’ll be using the Python Pandas library in a Jupyter Notebook to do some basic data analysis. Then we’ll create some data visualizations with Plotly, and then transfer our final visualization to Javascript.
+
+You do not need to install any software, all work will be done in a web browser.
+
+This workshop took place Saturday February 10, 2018. The notebooks have been updated since then to clarify some things based on the questions and comments that were provided. 
 
 Note to workshop attendees: The notebooks have been updated, so you can look at the third notebook for instructions on migrating your chart to Javascript. To update the notebooks in Azure, click the 'Terminal' icon to the right of the 'Star' option. Type 'cd library' and hit enter. Then copy and paste this into the terminal. Note that it's three instructions in one: 'git fetch --all; git reset --hard origin/master; git pull origin master' -- then and hit enter. Congratulations, you just ran your first git command on the command line! Finally, type 'exit' and hit enter. Close that tab, go back to the list of notebooks and refresh your browser window.
 
