@@ -9,7 +9,7 @@ You do not need to install any software, all work will be done in a web browser.
 
 This workshop took place Saturday February 10, 2018. The notebooks have been updated since then to clarify some things based on the questions and comments that were provided. 
 
-Note to workshop attendees: The notebooks have been updated, so you can look at the third notebook for instructions on migrating your chart to Javascript. To update the notebooks in Azure, click the 'Terminal' icon to the right of the 'Star' option. Type 'cd library' and hit enter. Then copy and paste this into the terminal. Note that it's three instructions in one: 'git fetch --all; git reset --hard origin/master; git pull origin master' -- then and hit enter. Congratulations, you just ran your first git command on the command line! Finally, type 'exit' and hit enter. Close that tab, go back to the list of notebooks and refresh your browser window.
+There's a troubleshooting guide and a note to workshop attendees at the bottom!
 
 First step will be to get registered on Microsoft Live so that you can create notebooks in Azure:
 
@@ -34,3 +34,21 @@ After forking the Gist, you will see an "Edit" button in the upper right. If you
 [https://bl.ocks.org/enactdev/8c65701cdb3ad655978f856d6ce92059](https://bl.ocks.org/enactdev/8c65701cdb3ad655978f856d6ce92059)
 
 Thank you to everyone who came to the workshop, and anyone who missed it but went through this tutorial! If you have any questions, find me on Slack.
+
+### Troubleshooting: 
+
+If you installed Jupyter on your computer and are running this locally, and the Plotly graphs are blank, there's probably an issue with software versions. If your computer uses Python 2 by default, then pip will not install the Python 3 versions required by this walkthrough. The best solution is to set up a [virtual environment with Python 3](https://docs.python.org/3/tutorial/venv.html). The quick solution is to call pip with Python 3: 
+
+```
+sudo python3 -m pip install -r requirements.txt
+```
+
+### Note to workshop attendees: 
+
+The notebooks have been updated, so you can look at the third notebook for instructions on migrating your chart to Javascript. To update the notebooks in Azure, click the 'Terminal' icon to the right of the 'Star' option. Type 'cd library' and hit enter. Then copy and paste this into the terminal. Note that it's three instructions in one: '
+
+```
+git fetch --all; git reset --hard origin/master; git pull origin master
+```
+
+Congratulations, you just ran your first git command on the command line! Finally, type 'exit' and hit enter. Close that tab, go back to the list of notebooks and refresh your browser window.
